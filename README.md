@@ -1,6 +1,6 @@
 ## Asymptotically Unbiased Estimation for Delayed Feedback Modeling via Label Correction
 
-### Citation
+<!-- ### Citation
 Please cite this paper if you used any content of this repo in your work:
 
 ```tex
@@ -24,7 +24,7 @@ Please cite this paper if you used any content of this repo in your work:
   biburl    = {https://dblp.org/rec/journals/corr/abs-2202-06472.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-```
+``` -->
 
 ### Environment Requirement
 The code has been tested running under Python 3.8.10. The required packages are follows:
