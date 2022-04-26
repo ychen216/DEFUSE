@@ -1,0 +1,2 @@
+model_checkpoint_path: "bidefuse_1d"
+all_model_checkpoint_paths: "bidefuse_1d"

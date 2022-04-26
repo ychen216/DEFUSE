@@ -1,0 +1,2 @@
+model_checkpoint_path: "esdfm_mask30d"
+all_model_checkpoint_paths: "esdfm_mask30d"

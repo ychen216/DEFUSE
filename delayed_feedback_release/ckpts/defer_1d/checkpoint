@@ -1,0 +1,2 @@
+model_checkpoint_path: "defer_1d"
+all_model_checkpoint_paths: "defer_1d"
